@@ -426,7 +426,7 @@ associative register는 어떻게 빠를 수 있을까?
   - 사용되지 않는 주소 공간에 대한 outer page table의 엔트리 값은 NULL(대응하는 inner page table이 없음)
   
 
-<img src="https://github.com/gashe-soo/OS-7week-KOCW/blob/main/asset/week5_ch8_img4.jpg?raw=true" alt="week5_ch8_img4.jpg" style="zoom:150%;" />
+<img src="https://github.com/gashe-soo/OS-7week-KOCW/blob/main/asset/week5_ch8_img4.jpg?raw=true" alt="week5_ch8_img4.jpg"  />
 
 #### Example
 
